@@ -1,6 +1,6 @@
 # My Software Engineering Resume
 
-<img src="./s_e_resume.png" alt="Software Engineering Resume" style="border:1px solid black;">
+<img src="./se_resume.png" alt="Software Engineering Resume" style="border:1px solid black;">
 
 ## Context
 
