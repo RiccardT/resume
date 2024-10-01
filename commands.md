@@ -1,5 +1,5 @@
 # Commands for this repo
 
 ```Bash
-convert -density 300 ./s_e_resume.pdf -quality 100 s_e_resume.png
+convert -density 300 ./se_resume.pdf -quality 100 se_resume.png
 ```
